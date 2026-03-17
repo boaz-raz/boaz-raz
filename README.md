@@ -12,10 +12,15 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Puppet](https://img.shields.io/badge/-Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## Current Projects
 
 - 🚀 **[Crash Deals](https://crash-deals.vercel.app/)**
+- 🚽 **[GoFlush](https://goflush.com)**
+- 🤖 **[Autonomous Tello Tracking with YOLOv8](https://github.com/boaz-raz/Autonomous-Tello-Tracking-with-YOLOv8)**
 
 ## Connect
 
