@@ -19,7 +19,7 @@
 ## Current Projects
 
 - 🚀 **[Crash Deals](https://crash-deals.vercel.app/)**
-- 🚽 **[GoFlush](https://goflush.com)**
+- 🚽 **[GoFlush](https://goflush.app)**
 - 🤖 **[Autonomous Tello Tracking with YOLOv8](https://github.com/boaz-raz/Autonomous-Tello-Tracking-with-YOLOv8)**
 
 ## Connect
