@@ -15,9 +15,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Chrome Extension](https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Current Projects
 
+- 🦅 **[IssueHawk](https://github.com/boaz-raz/issuehawk)** — Chrome extension to capture highlighted text and instantly create GitHub issues ([Landing Page](https://boaz-raz.github.io/issuehawk/))
 - 🚀 **[Crash Deals](https://crash-deals.vercel.app/)**
 - 🚽 **[GoFlush](https://goflush.app)**
 - 🤖 **[Autonomous Tello Tracking with YOLOv8](https://github.com/boaz-raz/Autonomous-Tello-Tracking-with-YOLOv8)**
