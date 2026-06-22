@@ -19,6 +19,7 @@
 
 ## Current Projects
 
+- ⚖️ **[The Bench](https://the-bench-app.vercel.app)** — a jurisprudence workbench: a council of legal philosophers, a defeasible formal proof, and a Dung-style argument map over any case
 - 🦅 **[IssueHawk](https://github.com/boaz-raz/issuehawk)** — Chrome extension to capture highlighted text and instantly create GitHub issues ([Landing Page](https://boaz-raz.github.io/issuehawk/))
 - 🚀 **[Crash Deals](https://crash-deals.vercel.app/)**
 - 🚽 **[GoFlush](https://goflush.app)**
